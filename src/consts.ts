@@ -1,5 +1,5 @@
-export const SITE_URL = "https://ivinjabraham.pages.dev/";
-export const SITE_TITLE = "ivinjabraham";
-export const SITE_DESCRIPTION = "Code, systems and optimizations";
+export const SITE_URL = "https://fuzzew.co";
+export const SITE_TITLE = "fuzzew";
+export const SITE_DESCRIPTION = "Personal blog";
 
-export const EMAIL = "ivinjabraham@gmail..com";
+export const EMAIL = "fuzzeew@gmail..com";
