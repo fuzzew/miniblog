@@ -31,7 +31,7 @@
 @layer components {
   article {
     p {
-      @apply my-4 leading-relaxed font-serif;
+      @apply my-4 font-serif leading-relaxed;
     }
     h1 {
       @apply my-4 text-xl font-medium dark:text-white;
