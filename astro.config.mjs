@@ -10,6 +10,7 @@ import { SITE_URL } from "./src/consts";
 // https://astro.build/config
 export default defineConfig({
   server: {
+    allowedHosts: ['fuzzew.co'],
     host: "0.0.0.0",
     port: parseInt(process.env.PORT || "") || 4321,
   },
