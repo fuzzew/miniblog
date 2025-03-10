@@ -6,7 +6,7 @@ date: "Mar 9 2025"
 
 # Exploring the Origins and Usage of Lorem Ipsum
 
-Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for <mark>previewing</mark> layouts and visual mockups.
 
 ## History and Origins
 
