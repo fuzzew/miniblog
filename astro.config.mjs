@@ -9,6 +9,10 @@ import { SITE_URL } from "./src/consts";
 
 // https://astro.build/config
 export default defineConfig({
+  server: {
+    host: "0.0.0.0",
+    port: parseInt(process.env.PORT || "") || 4321,
+  },
   site: SITE_URL,
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: {
@@ -20,7 +24,3 @@ export default defineConfig({
     },
   },
 });
-
-server: {
-  host: '0.0.0.0'
-}
